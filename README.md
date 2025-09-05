@@ -1,0 +1,1 @@
+# petrik3-spsejecna.cz
