@@ -1,1 +1,1 @@
-# petrik3-spsejecna.cz
+"hello world"
